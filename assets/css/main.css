@@ -2273,10 +2273,18 @@ input, select, textarea {
 /* Hero */
 
 	#hero {
-		position: relative;
-		color: #fff;
-		text-align: center;
-		z-index: 1;
+	background-image: url('../css/images/Linked_in_banner.JPG'); /* adjust path relative to CSS file */
+    background-size: cover;       /* fills the container */
+    background-position: center;  /* centers the image */
+    background-repeat: no-repeat;
+    height: 100vh;                /* full viewport height */
+    display: flex;                /* for centering content */
+    flex-direction: column;
+    justify-content: center;      /* vertical centering */
+    align-items: center;          /* horizontal centering */
+    text-align: center;
+    color: white;                 /* ensures text is readable */
+    position: relative;
 	}
 
 		#hero h2 {
