@@ -2104,7 +2104,7 @@ input, select, textarea {
 			}
 
 	.homepage #header-wrapper {
-		padding: 10em 0 6em 0;
+		padding: 0;
 		background-size: 128px 128px, 100% 100%, auto;
 	}
 
@@ -2275,6 +2275,7 @@ input, select, textarea {
 	#hero {
 	top: 0;
     left: 0;
+	z-index: 0; /* behind menu */
 	background-image: url('../css/images/Linked_in_banner.JPG'); /* adjust path relative to CSS file */
     background-size: cover;       /* fills the container */
     background-position: center;  /* centers the image */
