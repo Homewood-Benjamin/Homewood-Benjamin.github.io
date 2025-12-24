@@ -2429,11 +2429,11 @@ input, select, textarea {
 			}
 
 			#header-wrapper {
-				padding: 2em 0 2em 0;
+				padding: 0;
 			}
 
 			.homepage #header-wrapper {
-				padding: 8em 0 4em 0;
+				padding:0;
 			}
 
 			#promo-wrapper {
@@ -2474,11 +2474,11 @@ input, select, textarea {
 			}
 
 			#header-wrapper {
-				padding: 5em 0 1em 0;
+				padding:0;
 			}
 
 			.homepage #header-wrapper {
-				padding: 5em 0 4em 0;
+				padding: 0;
 			}
 
 			#promo-wrapper {
@@ -2709,12 +2709,12 @@ input, select, textarea {
 			}
 
 			#header-wrapper {
-				padding: 3em 20px 20px 20px;
+				padding: 0;
 				text-align: center;
 			}
 
 			.homepage #header-wrapper {
-				padding: 3em 20px 3em 20px;
+				padding: 0;
 			}
 
 			#promo-wrapper {
