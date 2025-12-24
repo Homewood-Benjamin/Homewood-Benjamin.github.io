@@ -2094,7 +2094,7 @@ input, select, textarea {
 
 	#header-wrapper {
 		position: relative;
-		background-image: url('assets/css/images/Linked_in_banner.JPG'); /* path relative to CSS file */
+		background-image: url('images/Linked_in_banner.JPG'); /* path relative to CSS file */
     	background-size: cover;       /* makes image cover the whole area */
     	background-position: center;  /* centers the image */
     	background-repeat: no-repeat; /* prevents tiling */
