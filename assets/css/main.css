@@ -2099,6 +2099,8 @@ input, select, textarea {
     	background-position: center;  /* centers the image */
     	background-repeat: no-repeat; /* prevents tiling */
     	color: white;                 /* ensures text remains readable */
+		min-height: 400px; /* or adjust as needed */
+    	position: relative; /* needed if using ::before overlay */
 			}
 
 	.homepage #header-wrapper {
