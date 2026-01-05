@@ -2104,6 +2104,7 @@ input, select, textarea {
     	background-repeat: no-repeat; /* prevents tiling */
     	color: white;                 /* ensures text remains readable */
     	position: relative; /* needed if using ::before overlay */
+		z-index: 1
 			}
 
 	.homepage #header-wrapper {
