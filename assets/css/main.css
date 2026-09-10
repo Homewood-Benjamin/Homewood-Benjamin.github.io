@@ -1,6 +1,11 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 
+.supervisor {
+    font-size: 0.75em;
+    opacity: 0.8;
+}
+
 /*
 	Telephasic by HTML5 UP
 	html5up.net | @ajlkn
