@@ -2101,7 +2101,7 @@ input, select, textarea {
 		}
 
 	#header-wrapper { 
-		height: 100pvh;               /* taller container */
+		height: 100vh;               /* taller container */
 		position: relative;
 		background-image: url('images/Linked_in_banner.JPG') !important; /* path relative to CSS file */
     	background-size: cover;       /* makes image cover the whole area */
@@ -2109,7 +2109,7 @@ input, select, textarea {
     	background-repeat: no-repeat; /* prevents tiling */
     	color: white;                 /* ensures text remains readable */
     	position: relative; /* needed if using ::before overlay */
-		z-index: 1
+		z-index: 1;
 			}
 
 	.homepage #header-wrapper {
